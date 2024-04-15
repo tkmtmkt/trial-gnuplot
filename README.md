@@ -1,4 +1,4 @@
-# study-gnuplot
+# trial-gnuplot
 Learn how to use gnuplot
 
 ### memory dayly
